@@ -1,0 +1,17 @@
+{
+  "name": "math_lib_test_levitskaks",
+  "version": "1.0.2",
+  "description": "Math Typescript library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typscript",
+    "lib",
+    "Math"
+  ],
+  "author": "Kateryna Levytska",
+  "license": "ISC"
+}
